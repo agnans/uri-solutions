@@ -1,4 +1,4 @@
 uri-solutions
 =============
 
-My URI[urionlinejudge.com] solutions
+My (URI Online Judge)[http://urionlinejudge.com] solutions.
