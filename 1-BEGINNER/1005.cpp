@@ -8,6 +8,6 @@ int main() {
 
     cin >> a >> b;
     cout << fixed << setprecision(5);
-    cout << "MEDIA = " << (a+b)/2 << endl;
+    cout << "MEDIA = " << (3.5*a + 7.5*b)/11 << endl;
 }
 
